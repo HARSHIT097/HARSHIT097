@@ -15,7 +15,7 @@ A learner to learn. A contributor to contribute.
 #Brief Educational History
 
 
-2021 --- Advanced Masters Degree from CDAC-ACTS, PUNE.
+2021 --- Advanced PG Diploma In Artificial Intelligence(PG-DAI) from CDAC-ACTS, PUNE.
 --
 2019 --- Masters' in Computer Application from GLA University, Mathura
 
